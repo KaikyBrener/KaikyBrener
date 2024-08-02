@@ -4,7 +4,7 @@ Me chamo **Kaiky Brener** e sou um desenvolvedor front-end apaixonado por tecnol
 
 ## 🚀 Sobre Mim
 
-<div style="display: flex; justify-content: flex-end; align-items: center;">
+<div style="display: flex; justify-content: flex-end; align-items: right;">
   <img src="https://i.imgur.com/uwFKAo5.png" alt="Minha Foto" style="width: 150px; height: auto; border-radius: 50%;">
 </div>
   <p>
