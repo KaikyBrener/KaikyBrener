@@ -1,17 +1,15 @@
 # Olá!
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <p>Me chamo <strong>Kaiky Brener</strong> e sou um desenvolvedor front-end apaixonado por tecnologia. Estou constantemente me especializando em diversas linguagens e ferramentas de desenvolvimento. Abaixo, você encontrará informações sobre minhas habilidades, projetos recentes e como me conectar.</p>
-    </td>
-    <td style="vertical-align: top;">
-      <img src="https://i.imgur.com/uwFKAo5.png" alt="Minha Foto" style="width: 200px; height: auto; border-radius: 50%;">
-    </td>
-  </tr>
-</table>
+# Olá!
 
+<p align="left">
+  Me chamo **Kaiky Brener** e sou um desenvolvedor front-end apaixonado por tecnologia. Estou constantemente me especializando em diversas linguagens e ferramentas de desenvolvimento. Abaixo, você encontrará informações sobre minhas habilidades, projetos recentes e como me conectar.
+</p>
 
+<p align="right">
+  <img src="https://i.imgur.com/uwFKAo5.png" alt="Minha Foto" style="width: 200px; height: auto; border-radius: 50%;">
+</p>
+.
 
 
 ## 🚀 Sobre Mim
