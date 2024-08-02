@@ -35,9 +35,8 @@ Estou sempre buscando aprender algo novo e melhorar minhas habilidades. Acredito
 
 ## Como Me Encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- [Twitter](https://twitter.com/seu-usuario)
-- [Email](mailto:seu-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/kaiky-pereira-3174a0291/)
+- [Email](kaikybrener42@gmail.com)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
 
