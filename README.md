@@ -1,12 +1,12 @@
-# Bem-vindo ao meu Perfil no GitHub!
-
-Olá! Eu sou um desenvolvedor front-end apaixonado por tecnologia e atualmente estou me especializando em diversas linguagens e ferramentas de desenvolvimento. Aqui você encontrará alguns dos projetos em que estou trabalhando e um pouco sobre o que estou aprendendo.
+<h1>Olá!<h1\> 
+<p>Me Chamo <strong>Kaiky Brener<strong\> 
+e sou um desenvolvedor front-end apaixonado por tecnologia e atualmente estou me especializando em diversas linguagens e ferramentas de desenvolvimento. Aqui você encontrará alguns dos projetos em que estou trabalhando e um pouco sobre o que estou aprendendo.<p\>
 
 ### Linguagens de Programação
-- HTML
-- CSS
-- JavaScript
-- Python
+- <u>HTML<u\>
+- <u>CSS<u\>
+- <u>JavaScript<u\>
+- <u>Python<u\>
 <p align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>         
