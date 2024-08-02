@@ -1,7 +1,7 @@
 # Olá!
 
 <p align="left">
-  <img align="right" src="https://i.imgur.com/uwFKAo5.png" alt="Minha Foto" style="width: auto; height: auto;">
+  <img align="right" src="https://i.imgur.com/uwFKAo5.png" alt="Minha Foto" style="width: 100px; height: auto;">
     Me chamo **Kaiky Brener** e sou um desenvolvedor front-end apaixonado por tecnologia. Estou constantemente me especializando em diversas linguagens e ferramentas de desenvolvimento. Abaixo, você encontrará informações sobre minhas habilidades, projetos recentes e como me conectar. 
 <p\>
 
