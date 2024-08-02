@@ -1,54 +1,62 @@
 # Olá!
 
-Me chamo **Kaiky Brener** e sou um desenvolvedor front-end apaixonado por tecnologia e atualmente estou me especializando em diversas linguagens e ferramentas de desenvolvimento. Aqui você encontrará alguns dos projetos em que estou trabalhando e um pouco sobre o que estou aprendendo.
+Me chamo **Kaiky Brener** e sou um desenvolvedor front-end apaixonado por tecnologia. Estou constantemente me especializando em diversas linguagens e ferramentas de desenvolvimento. Abaixo, você encontrará informações sobre minhas habilidades, projetos recentes e como me conectar.
 
-## Linguagens de Programação
+## 🚀 Sobre Mim
 
-- HTML
-- CSS
-- JavaScript
-- Python
+Sou um entusiasta da tecnologia e estou sempre buscando aprender algo novo e melhorar minhas habilidades. Acredito que a prática constante e a curiosidade são fundamentais para o desenvolvimento profissional. Adoro resolver problemas complexos e criar soluções eficientes.
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens de Programação
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
 
 <p align="left">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>         
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />          
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>         
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>          
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
 </p>
 
-          
 ### Frameworks e Bibliotecas
-- React.js
-- Node.js
-- Bootstrap
+
+- **React.js**
+- **Node.js**
+- **Bootstrap**
 
 ### Ferramentas de Desenvolvimento
-- Git & GitHub
-- Visual Studio Code
-- Figma
-- Trello
 
-## Sobre Mim
+- **Git & GitHub**
+- **Visual Studio Code**
+- **Figma**
+- **Trello**
 
-Estou sempre buscando aprender algo novo e melhorar minhas habilidades. Acredito que a prática constante e a curiosidade são fundamentais para o desenvolvimento profissional. Adoro resolver problemas complexos e criar soluções eficientes.
-
-## Projetos Recentes
+## 🗂️ Projetos Recentes
 
 
-## Como Me Encontrar
+## 📈 Minhas Estatísticas
 
-<div>
-<a href="https://www.linkedin.com/in/kaiky-pereira-3174a0291/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:kaikybrener42@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div\>
+<p>
+  <a href="https://github.com/KaikyBrener">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBrener&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikyBrener&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  </a>
+</p>
 
-## Minhas Estatísticas 
+## 📫 Como Me Encontrar
 
-<div>
-<a href="https://github.com/KaikyBrener">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBrener&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikyBrener&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/kaiky-pereira-3174a0291/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kaikybrener42@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
 
