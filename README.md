@@ -41,9 +41,9 @@ Estou sempre buscando aprender algo novo e melhorar minhas habilidades. Acredito
 <div\>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/KaikyBrener">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBrener&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikyBrener&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
