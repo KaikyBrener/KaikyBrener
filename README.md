@@ -19,20 +19,15 @@
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **Python**
 
 <p align="left">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>         
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>          
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python"/>
 </p>
 
 ### Frameworks e Bibliotecas
 
-- **React.js**
-- **Node.js**
-- **Bootstrap**
 
 ### Ferramentas de Desenvolvimento
 
