@@ -1,65 +1,138 @@
-# Olá!
+<div align="center">
 
-<p align="left">
-  <img align="right" src="https://i.imgur.com/uwFKAo5.png" alt="Minha Foto" style="width: 100px; height: auto;">
-    <strong>Me chamo Kaiky Brener e sou um desenvolvedor front-end apaixonado por tecnologia. Estou constantemente me especializando em diversas linguagens e ferramentas de desenvolvimento. Abaixo, você encontrará informações sobre minhas habilidades, projetos recentes e como me contactar. 
-<p\>
+# 👋 Olá, eu sou o Kaiky
 
-## 🚀 Sobre Mim
+### 💻 Desenvolvedor em formação • TI • QA • Backend
 
-  <p>
-    Sou um entusiasta da tecnologia e estou sempre buscando aprender algo novo e melhorar minhas habilidades. Acredito que a prática constante e a curiosidade são fundamentais para o desenvolvimento profissional. Adoro resolver problemas complexos e criar soluções eficientes.
-  </p>
+Construindo projetos, aprendendo na prática e evoluindo todos os dias.
 
+[![GitHub](https://img.shields.io/badge/GitHub-KaikyBrener-181717?style=for-the-badge&logo=github)](https://github.com/KaikyBrener)
 
-## 🛠️ Tecnologias e Ferramentas
+</div>
 
-### Linguagens de Programação
+---
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **C#**
+## 🧑‍💻 Sobre mim
 
-<p align="left">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>         
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>          
-</p>
+Sou estudante da área de tecnologia e venho construindo minha experiência através de projetos próprios, desenvolvimento de sistemas, suporte de TI e testes.
 
-### Frameworks e Bibliotecas
+Tenho interesse principalmente em:
 
+- Desenvolvimento Backend
+- APIs e integração de sistemas
+- C# e .NET
+- JavaScript
+- Python
+- Java
+- Banco de dados
+- QA e testes de software
+- Docker e ambientes de desenvolvimento
 
-### Ferramentas de Desenvolvimento
+Meu objetivo é continuar evoluindo como desenvolvedor, criando soluções reais e aprendendo cada vez mais com a prática.
 
-- **Git & GitHub**
-- **Visual Studio Code**
-- **Figma**
-- **Trello**
+---
 
-## 🗂️ Projetos Recentes
+## 🛠️ Tecnologias
 
-
-## 📈 Minhas Estatísticas
+### Linguagens
 
 <p>
-  <a href="https://github.com/KaikyBrener">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBrener&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikyBrener&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,python" />
 </p>
 
-## 📫 Como Me Encontrar
+### Frameworks e ferramentas
 
 <p>
-  <a href="https://www.linkedin.com/in/kaiky-pereira-3174a0291/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kaikybrener42@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,react,vite,docker,git,github" />
 </p>
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
+### Banco de dados
 
-Obrigado pela visita! 🚀
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔥 Phoenix
+
+Projeto voltado para conversão de arquivos, desenvolvido com foco em uma aplicação prática e distribuição para uso local.
+
+**Tecnologias:** Python
+
+🔗 [Ver projeto](https://github.com/KaikyBrener/phoenix-v3)
+
+---
+
+### 🚨 Integração de Central de Alarmes
+
+Projeto voltado para integração e comunicação com centrais de alarme de diferentes fabricantes.
+
+**Tecnologias:** C#
+
+🔗 [Ver projeto](https://github.com/KaikyBrener/Integra-o-central-de-alarmes)
+
+---
+
+### 🔎 Comparador de Nomes
+
+Aplicação desenvolvida para comparação de nomes e validação de informações.
+
+**Tecnologias:** C#
+
+🔗 [Ver projeto](https://github.com/KaikyBrener/comparador-nomes-control-id)
+
+---
+
+### 🚧 Provan-On
+
+Projeto atualmente em desenvolvimento.
+
+**Tecnologias:** C#
+
+🔗 [Ver projeto](https://github.com/KaikyBrener/Provan-On)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaikyBrener&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBrener&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KaikyBrener&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaikyBrener&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+```text
+📚 Estudando desenvolvimento de software
+💻 Desenvolvendo projetos pessoais
+🧪 Aprendendo mais sobre QA e testes
+🔧 Trabalhando com tecnologia no dia a dia
+🚀 Evoluindo meus conhecimentos em backend e APIs
