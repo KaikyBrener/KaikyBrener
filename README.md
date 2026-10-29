@@ -4,7 +4,7 @@
 
 **Desenvolvedor em formação · TI · QA · Backend**
 
-Vila Velha, ES · Engenharia de Software (UniSales)
+Vila Velha, ES · Engenharia de Software
 
 </div>
 
