@@ -29,7 +29,7 @@ Estudo Engenharia de Software e trabalho com suporte de TI, incluindo sistemas d
 ## Projetos
 
 ### [CentralHub — integração de centrais de alarme](https://github.com/KaikyBrener/Integra-o-central-de-alarmes)
-MVP para cadastrar prédios e centrais de alarme, testar a conexão, enviar comandos a saídas PGM e manter o histórico. O SDK usa o padrão de adaptadores (Intelbras, JFL e um adaptador fake para testes).
+MVP para cadastrar prédios e centrais de alarme, testar a conexão e registrar o histórico de comandos de PGM. O SDK usa o padrão de adaptadores (Intelbras, JFL e um adaptador fake para testes); a comunicação com os protocolos de cada fabricante ainda está em desenvolvimento.
 `ASP.NET Core 9` · `EF Core` · `SQLite` · `React` · `TypeScript` · `Vite`
 
 ### [Phoenix — conversor de imagens e Base64](https://github.com/KaikyBrener/phoenix-64)
