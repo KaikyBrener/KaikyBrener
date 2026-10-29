@@ -1,138 +1,49 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Kaiky
+# Kaiky Brener
 
-### 💻 Desenvolvedor em formação • TI • QA • Backend
+**Desenvolvedor em formação · TI · QA · Backend**
 
-Construindo projetos, aprendendo na prática e evoluindo todos os dias.
-
-[![GitHub](https://img.shields.io/badge/GitHub-KaikyBrener-181717?style=for-the-badge&logo=github)](https://github.com/KaikyBrener)
+Vila Velha, ES · Engenharia de Software (UniSales)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-Sou estudante da área de tecnologia e venho construindo minha experiência através de projetos próprios, desenvolvimento de sistemas, suporte de TI e testes.
+Estudo Engenharia de Software e trabalho com suporte de TI, incluindo sistemas de CFTV e controle de acesso. Fora do trabalho, construo projetos próprios, principalmente backend, APIs e integração de sistemas.
 
-Tenho interesse principalmente em:
+**Foco atual:** C# e .NET, APIs, integração de sistemas e testes de software (QA).
 
-- Desenvolvimento Backend
-- APIs e integração de sistemas
-- C# e .NET
-- JavaScript
-- Python
-- Java
-- Banco de dados
-- QA e testes de software
-- Docker e ambientes de desenvolvimento
+## Tecnologias
 
-Meu objetivo é continuar evoluindo como desenvolvedor, criando soluções reais e aprendendo cada vez mais com a prática.
+| | |
+|---|---|
+| **Linguagens** | C#, JavaScript, TypeScript, Python, Java |
+| **Backend** | ASP.NET Core, Entity Framework Core |
+| **Frontend** | React, Vite, HTML, CSS |
+| **Banco de dados** | SQLite, MySQL, PostgreSQL |
+| **Ferramentas** | Git, GitHub, Docker |
 
----
+## Projetos
 
-## 🛠️ Tecnologias
+### [CentralHub — integração de centrais de alarme](https://github.com/KaikyBrener/Integra-o-central-de-alarmes)
+MVP para cadastrar prédios e centrais de alarme, testar a conexão, enviar comandos a saídas PGM e manter o histórico. O SDK usa o padrão de adaptadores (Intelbras, JFL e um adaptador fake para testes).
+`ASP.NET Core 9` · `EF Core` · `SQLite` · `React` · `TypeScript` · `Vite`
 
-### Linguagens
+### [Phoenix — conversor de imagens e Base64](https://github.com/KaikyBrener/phoenix-64)
+App web que roda no navegador: converte imagem em Base64 e vice-versa, comprime imagens para até 200 KB e guarda um histórico local das conversões.
+`HTML` · `CSS` · `JavaScript`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,js,python" />
-</p>
+### [Comparador de nomes](https://github.com/KaikyBrener/comparador-nomes-control-id)
+Aplicação MVC para comparar nomes e validar informações.
+`C#` · `ASP.NET MVC`
 
-### Frameworks e ferramentas
+Veja todos os projetos em [meus repositórios](https://github.com/KaikyBrener?tab=repositories).
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,react,vite,docker,git,github" />
-</p>
+## Aprendendo agora
 
-### Banco de dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
-
----
-
-## 🚀 Projetos em destaque
-
-### 🔥 Phoenix
-
-Projeto voltado para conversão de arquivos, desenvolvido com foco em uma aplicação prática e distribuição para uso local.
-
-**Tecnologias:** Python
-
-🔗 [Ver projeto](https://github.com/KaikyBrener/phoenix-v3)
-
----
-
-### 🚨 Integração de Central de Alarmes
-
-Projeto voltado para integração e comunicação com centrais de alarme de diferentes fabricantes.
-
-**Tecnologias:** C#
-
-🔗 [Ver projeto](https://github.com/KaikyBrener/Integra-o-central-de-alarmes)
-
----
-
-### 🔎 Comparador de Nomes
-
-Aplicação desenvolvida para comparação de nomes e validação de informações.
-
-**Tecnologias:** C#
-
-🔗 [Ver projeto](https://github.com/KaikyBrener/comparador-nomes-control-id)
-
----
-
-### 🚧 Provan-On
-
-Projeto atualmente em desenvolvimento.
-
-**Tecnologias:** C#
-
-🔗 [Ver projeto](https://github.com/KaikyBrener/Provan-On)
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaikyBrener&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikyBrener&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=KaikyBrener&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaikyBrener&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Atualmente
-
-```text
-📚 Estudando desenvolvimento de software
-💻 Desenvolvendo projetos pessoais
-🧪 Aprendendo mais sobre QA e testes
-🔧 Trabalhando com tecnologia no dia a dia
-🚀 Evoluindo meus conhecimentos em backend e APIs
+- Testes automatizados e QA
+- Boas práticas de API e arquitetura em .NET
+- Docker para ambientes de desenvolvimento
