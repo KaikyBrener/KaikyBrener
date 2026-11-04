@@ -22,8 +22,8 @@ Estudo Engenharia de Software e trabalho com suporte de TI, incluindo sistemas d
 |---|---|
 | **Linguagens** | C#, JavaScript, TypeScript, Python, Java |
 | **Backend** | ASP.NET Core, Entity Framework Core |
-| **Frontend** | React, Vite, HTML, CSS |
-| **Banco de dados** | SQLite, MySQL, PostgreSQL |
+| **Frontend** | React, Vite, Tailwind CSS, HTML, CSS |
+| **Banco de dados** | SQLite, MySQL, PostgreSQL (Supabase) |
 | **Ferramentas** | Git, GitHub, Docker |
 
 ## Projetos
@@ -36,9 +36,13 @@ MVP para cadastrar prédios e centrais de alarme, testar a conexão, enviar coma
 App web que roda no navegador: converte imagem em Base64 e vice-versa, comprime imagens para até 200 KB e guarda um histórico local das conversões.
 `HTML` · `CSS` · `JavaScript`
 
+### [ConectJovem — gestão de ministério jovem](https://github.com/KaikyBrener/Conecta-Jovem)
+Sistema web mobile-first para jovens, grupos, encontros, chamada de presença, alertas de faltas consecutivas e tarefas de acompanhamento. O banco recalcula as faltas ao salvar a chamada e abre o alerta sozinho; as regras de acesso ficam no Postgres (Row Level Security).
+`React 19` · `TypeScript` · `Vite` · `Tailwind CSS` · `Supabase` · `Vitest` · `Playwright`
+
 ### [Comparador de nomes](https://github.com/KaikyBrener/comparador-nomes-control-id)
-Aplicação MVC para comparar nomes e validar informações.
-`C#` · `ASP.NET MVC`
+Compara a lista de nomes do sistema com a do dispositivo Control ID e indica quem deve ser removido do controle de acesso. API mínima em C# com normalização de acentos e espaços e detecção de nomes parecidos.
+`C#` · `ASP.NET Core`
 
 Veja todos os projetos em [meus repositórios](https://github.com/KaikyBrener?tab=repositories).
 
